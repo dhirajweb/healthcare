@@ -1,0 +1,16 @@
+.LoginDiv {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.LoginInput {
+    margin-top: 20px;
+}
+
+.login-btn {
+    width: 100%;
+    border-radius: 5px;
+}

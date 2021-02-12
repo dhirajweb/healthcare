@@ -1,0 +1,32 @@
+{
+  "patients": [
+    {
+      "email": "Dhiraj",
+      "password": "snon",
+      "name": "ssnon",
+      "phone": "ovnovn",
+      "diagnosis": "vnosog",
+      "medication": "hohog",
+      "address": "nvohvoh",
+      "country": "Aruba",
+      "region": "Aruba",
+      "city": "lvdnsnvosn",
+      "pincode": "321344",
+      "id": 2
+    },
+    {
+      "email": "Test Patient",
+      "password": "testpatient",
+      "name": "Test Patient",
+      "phone": "9999999999",
+      "diagnosis": "Test diagnosis",
+      "medication": "Test medication",
+      "address": "Test address",
+      "country": "Belarus",
+      "region": "Minsk voblast",
+      "city": "Mumbai",
+      "pincode": "400001",
+      "id": 3
+    }
+  ]
+}
