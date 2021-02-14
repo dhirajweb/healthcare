@@ -1,9 +1,13 @@
 .LoginDiv {
+    width: 30%;
     position: absolute;
     top: 50%;
     left: 50%;
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
+    padding: 10px 0;
+    background-color: #fff;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
 .LoginInput {
@@ -13,4 +17,16 @@
 .login-btn {
     width: 100%;
     border-radius: 5px;
+}
+
+@media screen and (max-width: 991px) {
+    .LoginDiv {
+      width: 50%;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .LoginDiv {
+      width: 80%;
+    }
 }

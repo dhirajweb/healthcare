@@ -1,0 +1,13 @@
+.margin {
+    margin-top: 10px;
+}
+
+.patient-form {
+    width: 50%;
+}
+
+@media screen and (max-width: 476px) {
+    .patient-form {
+      width: 80%;
+    }
+}

@@ -1,8 +1,16 @@
 .patient-info-text {
     float: left;
-    font-weight: bold;
 }
 
 .padding {
     padding: 5px 0;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.margin {
+    margin-top: 10px;
+    font-weight: bold;
 }
